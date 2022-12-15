@@ -1,8 +1,0 @@
-Tanmay Haresh Mali
-SEM4 SY Bsc.Computer Science(hons)
-
-Languages Known:
-C 
-Python
-Java
-Kotlin
